@@ -67,8 +67,8 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting chapter organizers Steven Li at 
-**[steven004@gmail.com](mailto:steven004@gmail.com)** and/or Jingtian Peng at 
+reported by contacting chapter organizers **Steven Li** at 
+**[steven004@gmail.com](mailto:steven004@gmail.com)** and/or **Jingtian Peng** at 
 **[django@ldcap.com](mailto:django@ldcap.com)**. All complaints 
 will be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The chapter organizing team is
