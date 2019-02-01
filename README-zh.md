@@ -1,12 +1,5 @@
 # ProtoSchool Shanghai (协议学院 上海分部)
 
-Protoshool Shanghai Chapter is a group of people passionate about the **Decentralized Web** and excited to learn, teach, and share ideas. Everyone is welcome!
-
-We focus on studying **Decentralized Storage Network** built on **IPFS** by [Protocol Labs](https://protocol.ai/) and developing services and application based tools in IPFS bundle, including Libp2p, Multiformat, IPLD, IPFS and its upper incentive layer Filecoin, at the same time, we will explore its usage in blockchain projects!
-
-Everyone is welcome to join us to learn, to evangelize, to share ideas of the amazing tech together! 
- :raised_hands:
-
 欢迎来到ProtoSchool Beijing (协议学院 上海分部)！
 
 我们，是一群充满激情的分布式互联网爱好者，在协议学院上海分部，我们共同学习、交流、分享与分布式网络相关的协议、知识和应用。
@@ -64,4 +57,4 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 
 ## License
 
-ProtoSchool is licensed under the Apache-2.0 and MIT licenses：[LICENSE.md](https://github.com/protoschool/seattle/blob/master/LICENSE.md) 
+ProtoSchool 遵循 Apache-2.0 和 MIT licenses：[LICENSE.md](https://github.com/protoschool/seattle/blob/master/LICENSE.md) 
