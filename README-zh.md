@@ -36,7 +36,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
   * Email: [steven004@gmail.com](mailto:steven004@gmail.com)
 * Jingtian Peng 
   * Github: [@DjangoPeng](https://github.com/DjangoPeng)
-  * Email: [django@ldcap.com](mailto:django@ldcap.com)
+  * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
 
 
 如果您期望加入组织团队，参与实际的组织工作，请联系我们 ☝️
