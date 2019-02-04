@@ -34,7 +34,7 @@ Our chapter's leadership team includes:
   * Email: [steven004@gmail.com](mailto:steven004@gmail.com)
 * Jingtian Peng 
   * Github: [@DjangoPeng](https://github.com/DjangoPeng)
-  * Email: [django@ldcap.com](mailto:django@ldcap.com)
+  * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
 
 Contact us if you are interested in joining this team.
 
