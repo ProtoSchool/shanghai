@@ -18,7 +18,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 
 - 所有人请先阅读下方的 Code of Conduct （行为准则）
 
-- 此仓库维护者： [@Steven004](https://github.com/steven004) | [@django](https://github.com/DjangoPeng)
+- 此仓库维护者： [@Steven004](https://github.com/steven004) | [@DjangoPeng](https://github.com/DjangoPeng)
 
 - 仓库将提供最新的学院公告和收录往期高质量的活动内容，方便大家收藏和学习
 
@@ -37,6 +37,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 * Jingtian Peng 
   * Github: [@DjangoPeng](https://github.com/DjangoPeng)
   * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
+  * Twitter: [DjangoPeng](https://twitter.com/PengDjango)
 
 
 如果您期望加入组织团队，参与实际的组织工作，请联系我们 ☝️

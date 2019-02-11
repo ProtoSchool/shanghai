@@ -17,7 +17,7 @@ Everyone is welcome to join us to learn, to evangelize, to share ideas of the am
 
 - Everyone should read Code of Conduct below firstly ！
 
-- Repo Maintainer ： [@Steven004](https://github.com/steven004) | [@django](https://github.com/DjangoPeng)
+- Repo Maintainer ： [@Steven004](https://github.com/steven004) | [@DjangoPeng](https://github.com/DjangoPeng)
 
 - We provide the latest announcements and previous resource about all the activities
 
@@ -35,6 +35,7 @@ Our chapter's leadership team includes:
 * Jingtian Peng 
   * Github: [@DjangoPeng](https://github.com/DjangoPeng)
   * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
+  * Twitter: [DjangoPeng](https://twitter.com/PengDjango)
 
 Contact us if you are interested in joining this team.
 
