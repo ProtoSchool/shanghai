@@ -1,6 +1,6 @@
 # ProtoSchool Shanghai (协议学院 上海分部)
 
-欢迎来到ProtoSchool Beijing (协议学院 上海分部)！
+欢迎来到ProtoSchool Shanghai (协议学院 上海分部)！
 
 我们，是一群充满激情的分布式互联网爱好者，在协议学院上海分部，我们共同学习、交流、分享与分布式网络相关的协议、知识和应用。
 如果您也对这一领域感兴趣，非常欢迎加入我们！
@@ -47,6 +47,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 
 - [**IPFSer 社区** 社区组织, 活动, 以及相关资源](http://ipfser.org)
 - [**IPFS原力区** IPFS原力区组织，活动，以及回顾](https://mp.weixin.qq.com/mp/homepage?__biz=MzUyOTc4OTc4OQ==&hid=3&sn=73cb01b7c9220f8ba25ba64cbb0cf429&scene=1&devicetype=iOS12.1.2&version=17000324&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_b8c74eeecc44&fontScale=118&wx_header=1)
+- [**天机阁开发者社区**](https://github.com/LDResearch/developers-group)
 
 
 ## Code of Conduct（行为准则）
