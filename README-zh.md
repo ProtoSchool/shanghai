@@ -46,6 +46,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 
 ## 相关社区及活动
 
+- [**协议学院上海分院开学 - 2019年2月16日**](Events/20190216-Openness.md)
 - [**IPFSer 社区** 社区组织, 活动, 以及相关资源](http://ipfser.org)
 - [**IPFS原力区** IPFS原力区组织，活动，以及回顾](https://mp.weixin.qq.com/mp/homepage?__biz=MzUyOTc4OTc4OQ==&hid=3&sn=73cb01b7c9220f8ba25ba64cbb0cf429&scene=1&devicetype=iOS12.1.2&version=17000324&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_b8c74eeecc44&fontScale=118&wx_header=1)
 - [**天机阁开发者社区**](https://github.com/LDResearch/developers-group)
