@@ -34,6 +34,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 * Steven Li 
   * Github: [@steven004](https://github.com/steven004)
   * Email: [steven004@gmail.com](mailto:steven004@gmail.com)
+  * Twitter: [Steven004](https://twitter.com/Steven004_Li)
 * Jingtian Peng 
   * Github: [@DjangoPeng](https://github.com/DjangoPeng)
   * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
