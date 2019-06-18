@@ -42,7 +42,8 @@ Contact us if you are interested in joining this team.
 
 ## Our Related Parties and Events
 
-- [**Shanghai Chapter 2nd Session - May 19 2019**](Events/20190519-2nd-Session.md)
+- [**Shanghai Chapter 3rd Session - June 15 2019**](Events/20190615-3rdSession.md)
+- [**Shanghai Chapter 2nd Session - May 19 2019**](Events/20190519-2ndSession.md)
 - [**Shanghai Chapter Openness - Feb. 16 2019**](Events/20190216-Openness.md)
 - [**IPFSer Community** community, events, and resources](http://ipfser.org)
 - [**IPFS-Force Community** IPFS-Force community, events and resources](https://mp.weixin.qq.com/mp/homepage?__biz=MzUyOTc4OTc4OQ==&hid=3&sn=73cb01b7c9220f8ba25ba64cbb0cf429&scene=1&devicetype=iOS12.1.2&version=17000324&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_b8c74eeecc44&fontScale=118&wx_header=1)
