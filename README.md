@@ -42,6 +42,7 @@ Contact us if you are interested in joining this team.
 
 ## Our Related Parties and Events
 
+- [**Shanghai Chapter 4th Session - July 28 2019**](Events/20190729-4thSession.md)
 - [**Shanghai Chapter 3rd Session - June 15 2019**](Events/20190615-3rdSession.md)
 - [**Shanghai Chapter 2nd Session - May 19 2019**](Events/20190519-2ndSession.md)
 - [**Shanghai Chapter Openness - Feb. 16 2019**](Events/20190216-Openness.md)
