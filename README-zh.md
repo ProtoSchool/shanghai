@@ -18,7 +18,7 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
 
 - 所有人请先阅读下方的 Code of Conduct （行为准则）
 
-- 此仓库维护者： [@Steven004](https://github.com/steven004) | [@DjangoPeng](https://github.com/DjangoPeng)
+- 此仓库维护者： [@Steven004](https://github.com/steven004) 
 
 - 仓库将提供最新的学院公告和收录往期高质量的活动内容，方便大家收藏和学习
 
@@ -35,24 +35,19 @@ Multiformat, IPLD, IPFS以及其之上的激励层Filecoin。同时，我们也�
   * Github: [@steven004](https://github.com/steven004)
   * Email: [steven004@gmail.com](mailto:steven004@gmail.com)
   * Twitter: [Steven004](https://twitter.com/Steven004_Li)
-* Jingtian Peng 
-  * Github: [@DjangoPeng](https://github.com/DjangoPeng)
-  * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
-  * Twitter: [DjangoPeng](https://twitter.com/PengDjango)
-
 
 如果您期望加入组织团队，参与实际的组织工作，请联系我们 ☝️
 
 
 ## 相关社区及活动
 
+- [**协议学院上海分院第五期 - 2019年8月31日**](Events/20190831-5thSession/协议学院 · 上海 活动回顾-第五期.docx)
 - [**协议学院上海分院第四期 - 2019年7月28日**](Events/20190729-4thSession-ChineseVersion.md)
 - [**协议学院上海分院第三期 - 2019年6月15日**](Events/2019%C2%B70615%C2%B7%E6%B4%BB%E5%8A%A8%E5%9B%9E%E9%A1%BE%E2%80%94%E3%80%8E%E5%8D%8F%E8%AE%AE%E5%AD%A6%E9%99%A2%C2%B7%E4%B8%8A%E6%B5%B7%C2%B7%E6%8A%80%E6%9C%AF%E6%B2%99%E9%BE%99%E3%80%8F%E7%AC%AC%E4%B8%89%E6%9C%9F.md)
 - [**协议学院上海分院第二期 - 2019年5月19日**](Events/20190519-2ndSession.md)
 - [**协议学院上海分院开学 - 2019年2月16日**](Events/20190216-Openness.md)
 - [**IPFSer 社区** 社区组织, 活动, 以及相关资源](http://ipfser.org)
 - [**IPFS原力区** IPFS原力区组织，活动，以及回顾](https://mp.weixin.qq.com/mp/homepage?__biz=MzUyOTc4OTc4OQ==&hid=3&sn=73cb01b7c9220f8ba25ba64cbb0cf429&scene=1&devicetype=iOS12.1.2&version=17000324&lang=zh_CN&nettype=WIFI&ascene=7&session_us=gh_b8c74eeecc44&fontScale=118&wx_header=1)
-- [**天机阁开发者社区**](https://github.com/LDResearch/developers-group)
 
 
 ## Code of Conduct（行为准则）
