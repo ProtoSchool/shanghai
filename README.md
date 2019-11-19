@@ -17,7 +17,7 @@ Everyone is welcome to join us to learn, to evangelize, to share ideas of the am
 
 - Everyone should read Code of Conduct below firstly ！
 
-- Repo Maintainer ： [@Steven004](https://github.com/steven004) | [@DjangoPeng](https://github.com/DjangoPeng)
+- Repo Maintainer ： [@Steven004](https://github.com/steven004) 
 
 - We provide the latest announcements and previous resource about all the activities
 
@@ -33,15 +33,12 @@ Our chapter's leadership team includes:
   * Github: [@steven004](https://github.com/steven004)
   * Email: [steven004@gmail.com](mailto:steven004@gmail.com)
   * Twitter: [Steven004](https://twitter.com/Steven004_Li)
-* Jingtian Peng 
-  * Github: [@DjangoPeng](https://github.com/DjangoPeng)
-  * Email: [pjt73651@gmail.com](mailto:pjt73651@gmail.com)
-  * Twitter: [DjangoPeng](https://twitter.com/PengDjango)
 
 Contact us if you are interested in joining this team.
 
 ## Our Related Parties and Events
 
+- [**Shanghai Chapter 5th Session - August 31 2019**](Events/20190831-5thSession.md)
 - [**Shanghai Chapter 4th Session - July 28 2019**](Events/20190729-4thSession.md)
 - [**Shanghai Chapter 3rd Session - June 15 2019**](Events/20190615-3rdSession.md)
 - [**Shanghai Chapter 2nd Session - May 19 2019**](Events/20190519-2ndSession.md)
